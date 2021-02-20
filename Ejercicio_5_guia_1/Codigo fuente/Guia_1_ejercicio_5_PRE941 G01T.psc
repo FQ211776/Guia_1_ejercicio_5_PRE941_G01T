@@ -13,7 +13,7 @@
 //--- PANTALLA 2
 //--- PANTALLA 3
 //--- PANTALLA 4
-//--- DEFINIR VARIABLES 
+//--- DEFINIR E INICIALIZAR VARIABLES 
 //
 //--- ENTRADAS DE DATOS
 //--- CONVERTIR A MAYUSCULAS
@@ -127,9 +127,14 @@ Algoritmo  GUIA_1_EJERCICIO_5
 	Escribir "1   XOR   1  =   ?"
 	teclaYborrarPantalla
 	
-	////--- DEFINIR VARIABLES 
+	////--- DEFINIR E INICIALIZAR VARIABLES 
 	
-	Definir input_1,input_2,XOR,NAND Como TEXTO
+	Definir input_1,input_2,XOR,NAND,validar Como TEXTO
+	input_1 <- ""
+	input_2 <- ""
+	XOR     <- ""
+	NAND    <- ""
+	validar <- ""
 	
 	////--- ENTRADAS DE DATOS
 	
