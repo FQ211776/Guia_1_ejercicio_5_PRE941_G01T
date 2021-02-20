@@ -8,7 +8,8 @@ Para clonar este repositorio, usted necesitara tener instalado [Git](https://git
 
 ```bash
 # Clonar este repositorio
-$ git clone https://github.com/FQ211776/Guia_1__PRE941_G01T
+$ git clone https://github.com/FQ211776/Guia_1__PRE941_G01T.git
+
 
 # Entrar a la carpeta local del repositorio
 $ cd Guia_1__PRE941_G01T
