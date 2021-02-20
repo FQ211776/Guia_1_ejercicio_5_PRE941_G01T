@@ -8,7 +8,8 @@ Para clonar este repositorio, usted necesitara tener instalado [Git](https://git
 
 ```bash
 # Clonar este repositorio
-$ git clone https://github.com/FQ211776/Guia_1__PRE941_G01T
+$ git clone https://github.com/FQ211776/Guia_1__PRE941_G01T.git
+
 
 # Entrar a la carpeta local del repositorio
 $ cd Guia_1__PRE941_G01T
@@ -19,5 +20,5 @@ $ cd Guia_1__PRE941_G01T
 
 Usted puede tambien [descargar](https://codeload.github.com/FQ211776/Guia_1__PRE941_G01T/zip/main) este repositorio comprimido en un archivo .zip 
 
-## Licensia
+## Licencia
 [MIT](https://tldrlegal.com/license/mit-license)
