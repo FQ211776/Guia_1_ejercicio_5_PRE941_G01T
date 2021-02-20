@@ -18,3 +18,6 @@ $ cd Guia_1__PRE941_G01T
 ## Descargar 
 
 Usted puede tambien [descargar](https://codeload.github.com/FQ211776/Guia_1__PRE941_G01T/zip/main) este repositorio comprimido en un archivo .zip 
+
+## Licensia
+[MIT](https://tldrlegal.com/license/mit-license)
