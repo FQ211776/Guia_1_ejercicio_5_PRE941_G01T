@@ -14,11 +14,16 @@ Algoritmo Ejercicio1_Guia1_Longitud_de_elipse
 	Escribir 'Introduzca el radio menor cm'
 	Leer b
 	// calculo de perimetro
-	perimetro <- 3.1416*(3*(a+b)-raiz((3*a+b)*(3*b+a)))
+	x <- 3.1416*(3*(a+b)-raiz((3*a+b)*(3*b+a)))
 	// valor en pulgadas
-	p <- perimetro*0.39370
+	z <- x*0.39370
 	// escribir en pantalla el resultado en cm
-	Escribir 'EL perimetro de la elipse es:',perimetro,'en centimetros'
+	
+	perimetro <- TRUNC(x*100.0)/100.0;
+	p <- TRUNC(z*100.0)/100.0;
+	
+	Escribir 'EL perimetro de la elipse es: ',perimetro,' en centimetros'
 	// escribir en pantalla el resultado en pulgadas
-	Escribir 'EL perimetro de la elipse es:',p,'en pulgadas'
+	Escribir 'EL perimetro de la elipse es: ',p,' en pulgadas'
+	
 FinAlgoritmo
